@@ -7,6 +7,8 @@ Bienvenido a mi portafolio de proyectos en **Data Science** y **Computer Vision*
 ## Proyectos
 
 ### [Bye, Fraud!](https://byefraud.eu.pythonanywhere.com/)
+<img src="https://github.com/kafka-01/kafka-01/blob/main/images/bye-fraud-preview.png?raw=true" alt="Bye, Fraud! Preview" width="400">
+
 **Descripción**: Sistema de detección de fraudes para transacciones en comercio electrónico. Incluye una tienda online ficticia, una API basada en Flask para predicción de riesgo de fraude y un panel de visualización de transacciones y puntuaciones de fraude.  
 **Tecnologías**: Flask, Machine Learning, Visualización de Datos  
 **Código**: *Repositorio privado actualmente*  
@@ -15,6 +17,8 @@ Bienvenido a mi portafolio de proyectos en **Data Science** y **Computer Vision*
 ---
 
 ### [Recicla Valencia](https://recicla-valencia.streamlit.app/)
+<img src="https://github.com/kafka-01/kafka-01/blob/main/images/recicla-valencia-preview.png?raw=true" alt="Recicla Valencia Preview" width="400">
+
 **Descripción**: Aplicación en Streamlit diseñada para promover el reciclaje y la correcta separación de residuos en Valencia. La app ofrece guías de reciclaje, un mapa con la ubicación de contenedores de reciclaje y una herramienta de identificación de residuos por imagen.  
 **Características**:
 - Identificación de residuos con reconocimiento de imágenes.
@@ -28,6 +32,8 @@ Bienvenido a mi portafolio de proyectos en **Data Science** y **Computer Vision*
 ---
 
 ### [IMDb Data Science](https://imdbdatascience.webs.upv.es/)
+<img src="https://github.com/kafka-01/kafka-01/blob/main/images/imdb-preview.png?raw=true" alt="IMDb Data Science Preview" width="400">
+
 **Descripción**: Proyecto de análisis de datos de IMDb, orientado a descubrir patrones y tendencias en la industria del cine. La web presenta resultados visuales y permite una exploración interactiva de los datos.  
 **Tecnologías**: Data Science, Visualización de Datos  
 **Código**: *No disponible públicamente*  
